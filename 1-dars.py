@@ -1,0 +1,1 @@
+print("sakkizning kvadrati", 8**2, "ga teng")
